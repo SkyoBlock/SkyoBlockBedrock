@@ -11,4 +11,4 @@ Please Use Commits
 
 Oh And Just Use The Java Resource Pack For The Assets
 
-im sorry for who ever does the 3d items
+This Would Have 2D Items Instead Of 3D
